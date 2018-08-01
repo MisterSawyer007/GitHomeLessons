@@ -12,7 +12,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         cat = new Cat(2, "Перситский", "Гарфилд", mouse);
         mouse = new Mouse(" Чип-чик");
         people = new People("Александр", "Барковский", 24, cat, mouse);
