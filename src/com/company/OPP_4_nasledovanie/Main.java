@@ -22,12 +22,5 @@ public class Main {
         System.out.println("Type sport: " + sportsmen.getTypeSport());
 
         //people.setTypeSport //ошибка! этот метод, есть только у класса Спортсмен
-
-
-
-
-
-
-
     }
 }
