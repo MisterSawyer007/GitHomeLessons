@@ -6,11 +6,9 @@ public class Cat {
     String poroda;
     String name;
 
-
     void say(){
         System.out.println("Мяука!");
     }
-
 
     @Override // alt + insert
     public String toString() {

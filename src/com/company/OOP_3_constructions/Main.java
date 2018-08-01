@@ -18,6 +18,5 @@ public class Main {
 
         cat.say();
         people.getCat().say();
-
     }
 }

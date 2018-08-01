@@ -1,4 +1,5 @@
 package com.company.OPP_4_nasledovanie;
+
 import com.company.OPP_4_nasledovanie.devcat.Cat;
 import com.company.OPP_4_nasledovanie.devmouse.Mouse;
 import com.company.OPP_4_nasledovanie.devpeople.People;

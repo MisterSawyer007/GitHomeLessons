@@ -2,7 +2,6 @@ package com.company.L1_if_else_switch;
 
 public class Main {
 
-
     static boolean bool = false;
     static int a = 12;
 
@@ -11,7 +10,6 @@ public class Main {
         funcIfElse(11.9);
         funcSwitch(123);
     }
-
 
     private static void funcIfElse(double res) {
 

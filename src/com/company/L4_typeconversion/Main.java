@@ -19,7 +19,6 @@ public class Main {
         int i1 = (int) b;
         System.out.println(i1);
 
-
         // Преобразование ссылочных типов данных
 //        Number n = fl; // Объект number позволяет преобразовывать в различные типы данных
 //        Integer r1 = n.intValue();
@@ -30,7 +29,6 @@ public class Main {
         Integer r1 = n.intValue();
         Integer r2 = n1.intValue();
         System.out.println(r2);
-
 
         // Преобразование ссылочного типа в примитивный
         Number n3 = f;

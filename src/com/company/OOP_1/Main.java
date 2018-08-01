@@ -27,7 +27,5 @@ public class Main {
 
         cat.say();
         people.cat.say();
-
-
     }
 }

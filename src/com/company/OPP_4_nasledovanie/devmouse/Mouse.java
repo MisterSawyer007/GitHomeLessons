@@ -12,7 +12,6 @@ public class Mouse {
     public Mouse(String name) {
         this.name = name;
     }
-
     public Mouse() { }
 
     @Override
