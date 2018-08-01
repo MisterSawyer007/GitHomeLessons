@@ -19,8 +19,8 @@ public class Main {
         System.out.println (people);
 
         Sportsmen sportsmen = new Sportsmen("Bob", "Danson", 38,cat,null);
-
         sportsmen.setTypeSport("Football");
+        System.out.println("Type sport: " + sportsmen.getTypeSport());
 
         //people.setTypeSport //ошибка! этот метод, есть только у класса Спортсмен
 
