@@ -40,9 +40,10 @@ public class Cat extends Animals {
         this.name = name;
     }
 
-    @Override
-    void eat() {
 
+    @Override
+    public void eat() {
+        System.out.println("Ням-ням!");
     }
 
     @Override
@@ -50,8 +51,8 @@ public class Cat extends Animals {
         System.out.println("Мяука!"); }
 
     @Override
-    void jump() {
-
+    public void jump() {
+        System.out.println("Скок!");
     }
 
     @Override // alt + insert
