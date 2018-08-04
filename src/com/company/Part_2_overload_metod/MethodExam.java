@@ -2,7 +2,7 @@ package com.company.Part_2_overload_metod;
 
 // Перегрузка методов: методы не могут быть идентичны(параметры должны отличаться)
 
-class MethodExam {
+public class MethodExam {
 
     public String get() { return "Hello";
     }
