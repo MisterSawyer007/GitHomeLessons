@@ -1,4 +1,4 @@
-package com.company.Part_2_Multiple_inheritance;
+package com.company.Part_2_multiple_inheritance;
 
 public class Main {
 

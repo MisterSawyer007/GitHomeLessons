@@ -1,7 +1,7 @@
-package com.company.Part2_Abstract_classes;
+package com.company.Part_2_abstract_classes;
 
-import com.company.Part2_Abstract_classes.devcat.Cat;
-import com.company.Part2_Abstract_classes.devpeople.People;
+import com.company.Part_2_abstract_classes.devcat.Cat;
+import com.company.Part_2_abstract_classes.devpeople.People;
 
 public class Main {
 

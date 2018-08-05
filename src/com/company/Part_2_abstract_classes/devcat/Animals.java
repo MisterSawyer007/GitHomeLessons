@@ -1,4 +1,4 @@
-package com.company.Part2_Abstract_classes.devcat;
+package com.company.Part_2_abstract_classes.devcat;
 
 public abstract class Animals {
 

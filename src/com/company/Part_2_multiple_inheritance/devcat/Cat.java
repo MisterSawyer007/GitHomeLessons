@@ -1,4 +1,4 @@
-package com.company.Part_2_Multiple_inheritance.devcat;
+package com.company.Part_2_multiple_inheritance.devcat;
 
 public class Cat extends Animals {
 

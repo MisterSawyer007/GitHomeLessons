@@ -1,8 +1,8 @@
-package com.company.Part_2_Multiple_inheritance;
+package com.company.Part_2_multiple_inheritance;
 
-import com.company.Part_2_Multiple_inheritance.devpeople.People;
-import com.company.Part_2_Multiple_inheritance.impl.Driver;
-import com.company.Part_2_Multiple_inheritance.impl.Transport;
+import com.company.Part_2_multiple_inheritance.devpeople.People;
+import com.company.Part_2_multiple_inheritance.impl.Driver;
+import com.company.Part_2_multiple_inheritance.impl.Transport;
 
 // Множественное наследование
 

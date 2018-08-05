@@ -1,6 +1,6 @@
-package com.company.Part_2_Multiple_inheritance.devpeople;
+package com.company.Part_2_multiple_inheritance.devpeople;
 
-import com.company.Part_2_Multiple_inheritance.devcat.Cat;
+import com.company.Part_2_multiple_inheritance.devcat.Cat;
 
 public class People {
 

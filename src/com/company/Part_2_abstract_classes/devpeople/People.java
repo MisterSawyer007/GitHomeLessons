@@ -1,6 +1,6 @@
-package com.company.Part2_Abstract_classes.devpeople;
+package com.company.Part_2_abstract_classes.devpeople;
 
-import com.company.Part2_Abstract_classes.devcat.Cat;
+import com.company.Part_2_abstract_classes.devcat.Cat;
 
 public class People {
 
