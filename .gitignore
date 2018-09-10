@@ -6,6 +6,7 @@
 
 # BlueJ files
 *.ctxt
+*.txt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -42,4 +43,4 @@
 .idea/modules.xml
 .idea/misc.xml
 .idea/description.html
-.newFile.txt
+
